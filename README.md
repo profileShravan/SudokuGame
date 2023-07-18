@@ -1,5 +1,5 @@
 # SudokuGame
-This is the first commit of a Sudoku puzzle game created in NetBeans with Java Swing's JFrame. Players can solve Sudoku puzzles on their PCs as part of the game's interactive Sudoku experience.
+This is the first version release of a Sudoku puzzle game created in NetBeans with Java Swing's JFrame. Players can solve Sudoku puzzles on their PCs as part of the game's interactive Sudoku experience.
 
 # Features
 1. Sudoku Puzzle Generation: The game creates Sudoku puzzles at random, with varied degrees of difficulty.
